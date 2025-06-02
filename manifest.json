@@ -3,7 +3,7 @@
     "id": "custom-radar-chart",
     "label": "Radar Chart Fondo Negro",
     "type": "radar",
-    "script": "https://gamsgitbuh.github.io/GAMSREPOSITORY/radar_chart.js",
+    "script": "https://cdn.jsdelivr.net/gh/GAMSGITBUH/GAMSREPOSITORY/radar_chart.js",
     "style": "default"
   },
   "data": {
