@@ -1,13 +1,16 @@
 {
-  "dataStudio": {
-    "name": "Radar Chart",
-    "id": "radar_chart",
-    "company": "Instituto STEM",
-    "version": "1.0.0",
-    "components": {
-      "viz": "radar_chart.js"
-    },
-    "style": "radar_chart.css",
-    "icon": "radar_chart_icon"
+  "visualization": {
+    "id": "custom-radar-chart",
+    "label": "Radar Chart Fondo Negro",
+    "type": "radar",
+    "script": "https://gamsgitbuh.github.io/GAMSREPOSITORY/radar_chart.js",
+    "style": "default"
+  },
+  "data": {
+    "dimensions": 1,
+    "metrics": 5
+  },
+  "options": {
+    "colorBy": "dimension"
   }
 }
